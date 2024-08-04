@@ -37,7 +37,7 @@ License
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
-For any questions, suggestions, or feedback, feel free to open an issue or contact us at whatsap-plus.com.
+For any questions, suggestions, or feedback, feel free to open an issue or contact us at <a href="https://whatsap-plus.com">whatsap-plus.com</a>.
 
 Thank you for visiting the Apps Repository! Happy coding! 🚀
 
